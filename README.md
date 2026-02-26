@@ -4,16 +4,12 @@
 
 Apaixonado por tecnologia, atualmente focado em desenvolvimento backend e arquiteturas de software. 🚀
 
-### 🛠️ Principais Tecnologias e Ferramentas
-
-- **Linguagens**: TypeScript, Java
-- **Frameworks e Bibliotecas**: NestJS, React, Spring Boot
-- **Banco de Dados**: PostgreSQL, MongoDB
-- **Outros**: Docker, Kubernetes, Nginx, Redis, RabbitMQ
-- **Metodologias e Arquiteturas**: Clean Architecture, Hexagonal Architecture, SOLID, Teste Unitário
-
 
 ### 💼 Experiência Profissional
+
+**Software Engineer na Stefanini Brasil - Atualmente** - Trabalhando com Java 21+ e Angular 17+ em projetos da Ford IT.
+
+**Software Engineer na Stefanini Brasil** - Trabalhando com Java 21+ e Cobol em projetos da Riocard TI.
 
 **Desenvolvedor Back-end na Stefanini Brasil** - Trabalhando com NestJS e TypeScript em projetos de integração de autosserviço no WhatsApp para clientes Bradesco Seguros.
   
