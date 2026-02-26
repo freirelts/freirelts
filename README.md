@@ -18,15 +18,6 @@ Apaixonado por tecnologia, atualmente focado em desenvolvimento backend e arquit
 **Desenvolvedor de Sistemas na Universidade Federal do Cariri** - Contribuí com o SIGAA, sistema de gestão acadêmica, com Java e JSF.
 
 
-
-### 📈 Estatísticas do GitHub
-
-<a href="https://github.com/freirelts"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=freirelts&show_icons=true&hide=contribs&count_private=true&theme=radical" /> </a>
-
- <a href="https://github.com/freirelts"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freirelts&layout=compact&theme=radical" /> </a>
-
-
-
 ### 📫 Contato
 
 - 📧 **Email**: freirelts@gmail.com
