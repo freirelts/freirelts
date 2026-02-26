@@ -21,9 +21,9 @@ Apaixonado por tecnologia, atualmente focado em desenvolvimento backend e arquit
 
 ### 📈 Estatísticas do GitHub
 
-<a href="https://github.com/lucastavares10"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastavares10&show_icons=true&hide=contribs&count_private=true&theme=radical" /> </a>
+<a href="https://github.com/freirelts"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=freirelts&show_icons=true&hide=contribs&count_private=true&theme=radical" /> </a>
 
- <a href="https://github.com/lucastavares10"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavares10&layout=compact&theme=radical" /> </a>
+ <a href="https://github.com/freirelts"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freirelts&layout=compact&theme=radical" /> </a>
 
 
 
