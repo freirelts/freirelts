@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Lucas Teixeira Freire
+# 👋 Olá, eu sou o Lucas Tavares Freire
 
 <div align="left">
   <a href="mailto:freirelts@gmail.com"><img src="https://img.shields.io/badge/Email-freirelts%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/freirelts/"><img src="https://img.shields.io/badge/LinkedIn-lucas%20teixeira%20freire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/freirelts/"><img src="https://img.shields.io/badge/LinkedIn-lucas%20tavares%20freire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
